@@ -9,11 +9,13 @@ For example, we can store a list of items having the same data-type using the ar
 For example, we can store a list of items having the same data-type using the array data structure.**
 # TOMJERRY
 ![img](https://i.pinimg.com/originals/72/7e/5e/727e5ea10a3f1852dcbdb06b3733cb7f.jpg)
+# Link
+
 # Unoredered List
 - bad
 - good
 - very good
 # Ordered List
-- 3.bad
-- 2.good
-- 1.very good
+ 3 bad
+ 2 good
+1 very good
