@@ -16,6 +16,6 @@ For example, we can store a list of items having the same data-type using the ar
 - good
 - very good
 # Ordered List
- 3 bad
- 2 good
-1 very good
+1. very good
+2. good
+3. bad
