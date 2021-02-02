@@ -10,6 +10,6 @@ For example, we can store a list of items having the same data-type using the ar
 # TOMJERRY
 ![img](https://i.pinimg.com/originals/72/7e/5e/727e5ea10a3f1852dcbdb06b3733cb7f.jpg)
 # Unoredered List
--bad
--good
--vrey good
+- bad
+- good
+- very good
